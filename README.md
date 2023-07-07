@@ -1,3 +1,5 @@
 # Problems LeetCode
-Aqui vou deixar alguns problemas do site LeetCode que eu resolvi.
 
+Visando aprender e me aprofundar em Algoritmos e Estrutura de Dados, pensei em resolver alguns problemas de iniciante que estão na plataforma LeetCode.
+
+Cada problema será criada uma pasta explicando o que pede para ser feito e um arquivo com o código implementado.
